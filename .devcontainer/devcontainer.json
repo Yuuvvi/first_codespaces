@@ -8,8 +8,19 @@
         "extensions": [
           "esbenp.prettier-vscode",
           "ritwickdey.liveserver",
-        ]
+          "pkief.material-icon-theme",
+          "formulahendry.code-runner",
+          "dsznajder.es7-react-js-snippets",
+          "christian-kohler.npm-intellisense",
+          "formulahendry.auto-close-tag",
+        ],
+
+        "settings":{
+          "workbench.iconTheme": "material-icon-theme",
+          "workbench.colorTheme": "Default Dark+"
+        }
     }
+
   }
 
 }
