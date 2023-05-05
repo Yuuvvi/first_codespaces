@@ -12,7 +12,7 @@
           "formulahendry.code-runner",
           "dsznajder.es7-react-js-snippets",
           "christian-kohler.npm-intellisense",
-          "formulahendry.auto-close-tag",
+          "formulahendry.auto-close-tag"
         ],
 
         "settings":{
